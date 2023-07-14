@@ -1,0 +1,34 @@
+.boton{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-decoration:none;
+    font-family:monospace;
+    font-size:25px;
+    font-weight:bold;
+    height:auto;
+    width:15%;
+    padding:0px 0px 0px 100px;
+    color:#095d2d;
+    background-color:#22fb13;
+    border:3px solid #0fa343;
+    border-radius:100px 0px 60px 0px;
+    box-shadow: 5px 3px 11.7px 8px #0091ff;
+    transition:all 0.3s;
+}
+.imput{
+    display:flex;
+  justify-content:center;
+  align-items:center;
+  text-decoration:none;
+  font-family:monospace;
+  font-size:26px;
+  font-weight:initial;
+  height:auto;
+  width:auto;
+  padding:0px 8px 0px 10px;
+  color:#ffffff;
+  background-color:#00ff2a;
+  border:3px solid #2ea38c;
+  transition:all 0.3s;
+}

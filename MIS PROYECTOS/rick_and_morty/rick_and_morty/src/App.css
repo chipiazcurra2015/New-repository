@@ -1,0 +1,8 @@
+.App {
+   text-align: center;
+   background-color: darkblue;
+   background-image: url(https://fondosmil.com/fondo/52210.jpg);
+   margin: 0;
+   padding: 0;
+   min-height: 100vh;
+}
