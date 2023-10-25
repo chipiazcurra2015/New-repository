@@ -7,7 +7,7 @@ class About extends React.Component{
 
     render(){
         return(
-            <h1>Este es el componente About </h1>
+            <h1>Este es el componente About y estamos aprendiendo</h1>
         )
         
     }
