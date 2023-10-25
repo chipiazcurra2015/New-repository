@@ -3,7 +3,7 @@ import style from './Card.module.css';
 import { addFav,removeFav } from '../redux/actions';
 import { connect } from 'react-redux';
 import { useState, useEffect } from 'react';
-
+// aca hay varias cosas para mejorar jaja 
 
 function Card({id,name,status,species,gender,image,onClose,addFav,removeFav,myFavorites}) {
   
