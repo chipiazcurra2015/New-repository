@@ -10,7 +10,7 @@ function Card({id,name,status,species,gender,image,onClose,addFav,removeFav,myFa
    const [isFav, setIsfav] = useState(false);
    const handleFavorite= () => {
       if(isFav){
-         setIsfav(false)
+          setIsfav(false)
          removeFav(id)
       }else{
          setIsfav(true)
