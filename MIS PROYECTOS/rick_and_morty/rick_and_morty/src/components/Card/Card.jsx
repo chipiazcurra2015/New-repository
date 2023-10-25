@@ -4,6 +4,7 @@ import { addFav,removeFav } from '../redux/actions';
 import { connect } from 'react-redux';
 import { useState, useEffect } from 'react';
 // aca hay varias cosas para mejorar jaja 
+// esta linea 
 
 function Card({id,name,status,species,gender,image,onClose,addFav,removeFav,myFavorites}) {
   
